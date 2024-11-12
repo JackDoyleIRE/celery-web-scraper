@@ -1,3 +1,4 @@
 celery
 requests
 celery[redis]
+python-dotenv
