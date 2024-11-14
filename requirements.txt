@@ -2,3 +2,5 @@ celery
 requests
 celery[redis]
 python-dotenv
+flower
+bs4
